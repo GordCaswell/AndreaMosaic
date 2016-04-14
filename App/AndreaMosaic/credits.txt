@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------------------------------------------------
 -- CREDITS
 --------------------------------------------------------------------------------------------------------------------------
-AndreaMosaic was build using the following libraries.
+AndreaMosaic was build using the libraries described in this document.
 A great thank you to all those authors for allowing the use inside this software.
-
 
 --------------------------------------------------------------------------------------------------------------------------
 -- Independent JPEG Group JPEG Library under the following IJG Licenses
@@ -540,6 +539,19 @@ NO WARRANTY
 END OF TERMS AND CONDITIONS
 
 --------------------------------------------------------------------------------------------------------------------------
+- QT Framework
+- Reference: http://doc.qt.io/qt-5/licensing.html
+--------------------------------------------------------------------------------------------------------------------------
+The OS X version of AndreaMosaic includes a software called AndreaMosaicOpen.app which is developed using the QT Framework
+linked dynamically and released under the LGPL 2.1 license.
+
+Qt is available under the GNU Lesser General Public License version 3 and the GNU Lesser General Public License version 2.1.
+The Qt Toolkit is Copyright (C) 2015 The Qt Company Ltd and other contributors. Contact: http://www.qt.io/licensing/
+
+References:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+--------------------------------------------------------------------------------------------------------------------------
 -- Some Icons in the User Interface of AndreaMosaic
 -- Reference: http://www.axialis.com/free/icons/index.html
 --------------------------------------------------------------------------------------------------------------------------
@@ -547,6 +559,21 @@ END OF TERMS AND CONDITIONS
 LICENSE:
 All the icons are licensed under the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.5). It means that you can use them in any project or website, commercially or not. 
 The only restrictions are: (a) you must keep the credits of the authors: "Axialis Team", even if you modify them; (b) link to us if you use them on your website. 
+
+--------------------------------------------------------------------------------------------------------------------------
+-- LIST OF FILES
+--------------------------------------------------------------------------------------------------------------------------
+The following list of files included with AndreaMosaic are build entirely using the libraries descrived in this document 
+and are distributed under their respective license. This means that those files can be freely replaced/updated/modified:
+
+Files of the ICU Unicode Library under the following ICU License:
+* icudt40.dll
+* icuin40.dll
+* icuuc40.dll
+
+Files of the GNU GETTEXT Library:
+* libintl3.dll
+* libiconv2.dll
 
 --------------------------------------------------------------------------------------------------------------------------
 -- END OF DOCUMENT
