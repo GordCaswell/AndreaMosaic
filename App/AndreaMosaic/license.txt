@@ -1,0 +1,33 @@
+License Information for "AndreaMosaic" Information Appliance
+Copyright 1997-2011 Andrea Denzler. All Rights Reserved. License date 30 March 2011, version 1.1.
+
+1. EVERY MOSAIC (OR DERIVATIVE WORK) IS CREATED AND PUBLISHED (OR DISTRIBUTED IN ANY WAY) MUST INCLUDE A CLEAR, EVIDENT AND WELL VISIBLE WRITTEN CREDIT TO ANDREAMOSAIC. THE CREDIT SHOULD NOT BE PLACED OVER THE MOSAIC BUT TOGETHER WITH IT. On a web page add a link to AndreaMosaic home page. When printed add a note about AndreaMosaic together with the print. In other words who will see the mosaic must know and see that you used AndreaMosaic. 
+Like when you publish a photograph and you give the credit to the Photographer. Like if you publish a painting and you give the credit to yourself as the author but also to the whoever gave you a free paintbrush & colours (AndreaMosaic).
+
+2. IF YOU CREATE A SPECIAL MOSAIC OR ONE THAT WILL BE SHOWN ON A LARGE PUBLIC AUDIENCE THEN YOU MUST INFORM ANDREA DENZLER ("the AUTHOR") ABOUT IT, SO THAT A SMALL THUMBNAIL IMAGE OF YOUR WORK CAN BE ADDED TO THE "LIST OF THE ARTWORKS" CREATED WITH ANDREAMOSAIC. The "list of the artworks" is a selection of nice mosaics published on the AndreaMosaic web page. I really would like to know about any work that was created with AndreaMosaic. 
+
+3. PLEASE SUPPORT THIS PROGRAM WITH A DONATION. If you use AndreaMosaic commercially (i.e. you get any profit with it), then you really should support it, proportionally to the value the program is giving you.
+
+4. LICENSE GRANT.   Andrea Denzler ("the AUTHOR") grants you a non-exclusive and non-transferable license to reproduce and use the SOFTWARE for personal or internal business purposes.  “The SOFTWARE” refers to the AndreaMosaic executable file itself as well as all related data, text and other files contained in the AndreaMosaic distribution package. This license does not entitle you to receive from AUTHOR hard-copy documentation, technical support, telephone assistance, or enhancements or updates to the SOFTWARE.
+
+5. OWNERSHIP.  The SOFTWARE is owned and copyrighted by the AUTHOR.  Your license confers no title or ownership in the SOFTWARE and should not be construed as a sale of any right in the SOFTWARE.
+
+6. COPYRIGHT.  The SOFTWARE is protected by United States copyright law and international treaty provisions. You acknowledge that no title to the intellectual property in the SOFTWARE is transferred to you. You agree that any copies of the SOFTWARE you create will contain the same proprietary notices which appear on and in the SOFTWARE.
+
+7. DISTRIBUTION. You are authorized to distribute any part of this software to anyone, but you are NOT authorized to sell this application (contact the author to obtain a written permission). Redistributions must reproduce all the copyright notice, this list of conditions and the disclaimer in the documentation and/or other materials provided with the distribution. You are NOT authorized to distribute a modified version of this software to anyone.
+
+8. REVERSE ENGINEERING.  You may not decompile, reverse engineer, or disassemble the SOFTWARE. You may not modify, rent or resell for profit the SOFTWARE. You may not remove any copyright notices from the SOFTWARE.  You may not create derivative works based upon the SOFTWARE, including but not limited to modification of the SOFTWARE's text to other languages, without the permission of the AUTHOR.
+
+9. SEVERABILITY.  In the event of invalidity of any provision of this license, the parties agree that such invalidity shall not affect the validity of the remaining portions of this license.
+
+10. EXCLUSION OF OTHER WARRANTIES.  EXCEPT AS PROVIDED ABOVE, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. 
+
+11. LIMITATION OF LIABILITY.  IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION, OR LOST INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12. ENTIRE AGREEMENT.  This is the entire agreement between you and the AUTHOR which supersedes any prior agreement or understanding, whether written or oral, relating to the subject matter of this license.
+
+13. RESERVED RIGHTS.  All rights not expressly granted here are reserved to the AUTHOR.
+
+14. USE. This software can be used free of charge for personal or commercial use.
+
+15. THIRD PARTY COMPONENTS. This software contain components developed by other authors and they are distributed under different licenses. For a complete list of the components and their licenses visit the credit page http://andreaplanet.com/andreamosaic/license/credits.php or read the attached credits.txt file.

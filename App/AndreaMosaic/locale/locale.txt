@@ -1,0 +1,13 @@
+﻿[locale]
+English=en
+Français (French)=fr
+Italiano (Italian)=it
+Русский (Russian)=ru
+Українська (Ukrainian partial)=uk_UA
+Deutsch (German partial)=de
+Español (Spanish partial)=es
+Nederlands (Dutch partial)=nl
+Português (Portuguese partial)=pt
+Português Brasileiro (Brazilian Portuguese partial)=pt_BR
+中文 (简体) (Chinese, Simplified partial)=zh_cn
+中文 (繁體) (Chinese, Traditional)=zh_tw

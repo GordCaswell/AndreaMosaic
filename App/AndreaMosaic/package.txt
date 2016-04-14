@@ -1,0 +1,17 @@
+;--------------------------------------------------------------------------
+; This is the Package File
+; It is used by AndreaMosaic to know which version was installed
+; and to redirect to the correct download link when an update is
+; requested.
+;
+; Actually there are three different packages:
+; - "WindowsSetup" - a traditional setup program
+; - "WindowsPortable" - a portable version for USB Sticks
+; - "Mac" - a portable application for Mac OS X
+; For the Linux system it is necessary to install Wine and then
+; you can download the Portable or Windows version.
+;--------------------------------------------------------------------------
+[Package]
+
+Package=WindowsPortable 
+Build= 
